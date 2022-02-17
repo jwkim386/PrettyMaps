@@ -21,6 +21,7 @@ This work is [licensed](LICENSE) under a GNU Affero General Public License v3.0 
 
 ## [prettymaps subreddit](https://www.reddit.com/r/prettymaps_/)
 ## [Google Colaboratory Demo](https://colab.research.google.com/github/marceloprates/prettymaps/blob/master/notebooks/examples.ipynb)
+## [YouTube Tutorial](https://youtu.be/5za5I3kUuOI)
 
 ## Installation
 
